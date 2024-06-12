@@ -9,3 +9,12 @@
 ## Compose A New Email
 ![webemail3](https://github.com/miths05/Mail-Login/assets/119745912/667390ce-c137-46b7-a4b6-d5e19076fb47)
 
+
+## Objective: 
+Developed a sophisticated web-based email client application to manage and interact with emails through an intuitive interface.
+
+## Technologies :
+ PHP, IMAP, HTML/CSS, JavaScript, PHPMailer.
+
+## Key Achievements:
+Leveraged robust backend technologies for seamless integration, creating an efficient and user-friendly email management system.
